@@ -20,7 +20,7 @@
             "android": {
                 "priority": "high"
             },
-            "topic": "topic"
+            "topic": "string"
         }
     }
 }
