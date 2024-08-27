@@ -5,7 +5,7 @@
     "partnerId": "freedom",
     "os": "ios",
     "deviceToken": "string",
-    "topic": "string::appName",
+    "app": "string::appName",
     "apnsRequest": {
         "aps": {
             "alert": {
