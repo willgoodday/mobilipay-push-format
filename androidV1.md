@@ -13,6 +13,7 @@
                 "image": "string::url",
                 "body": "string",
                 "title": "string",
+                "pushId": "string",
                 "push_buttons": {
                     "string": "string::url"
                 }
